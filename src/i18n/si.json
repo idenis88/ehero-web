@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "howItWorks": "Kako deluje",
+    "features": "Prednosti",
+    "pricing": "Cenik",
+    "faq": "FAQ",
+    "login": "Prijava",
+    "getStarted": "Začni brezplačno"
+  },
+  "hero": {
+    "title": "Povežite Minimax z vašo spletno trgovino",
+    "subtitle": "Avtomatski prenos naročil iz Etsy, Shopify, WooCommerce in eBay neposredno v Minimax.",
+    "cta": "Začni brezplačno",
+    "ctaSecondary": "Kako deluje"
+  }
+}
