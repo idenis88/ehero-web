@@ -8,7 +8,7 @@ import HowItWorks from '../../components/sections/HowItWorks';
 import Audience from '../../components/sections/Audience';
 import StripeThriveCart from '../../components/sections/StripeThriveCart';
 import WhyEhero from '../../components/sections/WhyEhero';
-import Testimonials from '../../components/sections/Testimonials.tsx';
+import Testimonials from '../../components/sections/Testimonials';
 import Pricing from '../../components/sections/Pricing';
 import FAQ from '../../components/sections/FAQ';
 import CTA from '../../components/sections/CTA';
